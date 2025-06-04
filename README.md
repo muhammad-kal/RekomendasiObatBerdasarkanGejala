@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Dwi Tatang Warianta
+# Laporan Proyek Machine Learning - Muhammad Haikal
 
 ## Project Overview
 
